@@ -5,9 +5,11 @@ An Open Accepted Code Library Boosted BY HEU-ACM Team.
 
 如何上传我的代码
 -------
-- 你可以使用协作者账号
+- **你可以使用协作者账号**
 - Email: acmcode@outlook.com
 - PWD: collab123
+- 
+- **你也可以采用经典的Push方式，由管理员负责确认请求**
 
 格式说明
 -------
